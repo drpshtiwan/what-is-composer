@@ -1,0 +1,13 @@
+{
+    "name": "barez/what-is-composer",
+    "type": "project",
+    "require": {
+        "fzaninotto/faker": "^1.8"
+    },
+    "authors": [
+        {
+            "name": "Kardo Qadir",
+            "email": "kardoey@gmail.com"
+        }
+    ]
+}
